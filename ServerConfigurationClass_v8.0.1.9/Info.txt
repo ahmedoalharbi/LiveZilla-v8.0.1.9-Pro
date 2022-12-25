@@ -1,9 +1,0 @@
-Replace the file : ServerConfigurationClass.js in \mobile\js\lzm\classes\
-
-Activate Pro Unlimited whit  :
-
-Serial: 12345-12345-12345-12345
-
-and Backlink Removal :
-
-Serial: "54321-54321-54321-54321"
